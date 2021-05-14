@@ -16,24 +16,5 @@
 Your Name Email Address An email address is required.  Message   </description>
     </item>
     
-    <item>
-      <title>Influence of the Covid pandamic in Melbourne</title>
-      <link>/post/covid_markdown/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/post/covid_markdown/</guid>
-      <description>2020 - Influence of the Pandemic In 2020 Melbourners had to live through, what have been termed one of the worlds most strict lockdown. So let&amp;rsquo;s explore what happens when the most liveable city finds itself under one of the worlds hardest lockdowns. We have done some exploration, and build an interactive setup that allows you to explore further.
-Lockdowns are messy, there is no simple &amp;lsquo;is&amp;rsquo; or &amp;lsquo;is not&amp;rsquo; label you can put on a city on a given date, nor is there a well defined scale for stages of lockdown, as restrictions can be (and have been) combined in numerous ways.</description>
-    </item>
-    
-    <item>
-      <title>Relation between Pedestrian flow and Weather</title>
-      <link>/post/weather_markdown/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/post/weather_markdown/</guid>
-      <description>Weather Imagine being in Melbourne right now, how do you think the weather would be right now? And would that somehow influence the local peoples social behaviour ? Would it be possible to predict how many people are walking on the streets based on day time and weather? Those are some of the questions we asked ourselves, because you see in the Nordic countries people are very influenced by the weather, a cold and rainy is better spend idoors with a nice cop of coffe and a good book.</description>
-    </item>
-    
   </channel>
 </rss>
