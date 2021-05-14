@@ -2,19 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://schibsen.github.io.com/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/contact/</loc>
+    <loc>https://schibsen.github.io.com/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>https://schibsen.github.io.com/post/covid_markdown/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://schibsen.github.io.com/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://schibsen.github.io.com/post/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://schibsen.github.io.com/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
